@@ -279,7 +279,7 @@ section#formHolder {
   color: #f95959;
 }
 
-.asd {
+.slide-btn {
   margin: 10px auto;
   text-align: center;
   max-width: 980px;
@@ -309,7 +309,7 @@ input[type="submit"] {
   display: flex;
 }
 
-.asd.cookbut input{
+.slide-btn.cookbut input{
   border: 1px solid #f95959;
   text-transform: uppercase;
   background-color: transparent;
@@ -353,7 +353,7 @@ input.slide-hover-left-3:hover {
   text-decoration: none;
 }
 
-.form form .asd a.switch:hover {
+.form form .slide-btn a.switch:hover {
   color: #f95959;
   text-decoration: none;
   font-size: 16px;
